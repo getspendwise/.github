@@ -21,3 +21,4 @@ device.
 - Publisher page: <https://play.google.com/store/apps/dev?id=8187940825533075575>
 - Site source: <https://github.com/getspendwise/spendwise-site>
 - DEV Community: <https://dev.to/getspendwise>
+- Build notes: <https://getspendwise.hashnode.dev>

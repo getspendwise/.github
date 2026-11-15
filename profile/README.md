@@ -22,3 +22,5 @@ device.
 - Site source: <https://github.com/getspendwise/spendwise-site>
 - DEV Community: <https://dev.to/getspendwise>
 - Build notes: <https://getspendwise.hashnode.dev>
+- Build notes (WordPress.com): <https://getspendwise.wordpress.com>
+- Build notes (Blogger): <https://getspendwise.blogspot.com>

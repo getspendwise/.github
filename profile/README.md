@@ -19,4 +19,4 @@ device.
 - Website: <https://spendwise.download>
 - Google Play: <https://play.google.com/store/apps/details?id=com.gripxtech.spendwise>
 - Publisher page: <https://play.google.com/store/apps/dev?id=8187940825533075575>
-- Site source: <https://github.com/kasim1011/spendwise-site>
+- Site source: <https://github.com/getspendwise/spendwise-site>

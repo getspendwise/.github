@@ -16,11 +16,36 @@ device.
 
 ## Links
 
+### Get the app
+
 - Website: <https://spendwise.download>
 - Google Play: <https://play.google.com/store/apps/details?id=com.gripxtech.spendwise>
 - Publisher page: <https://play.google.com/store/apps/dev?id=8187940825533075575>
-- Site source: <https://github.com/getspendwise/spendwise-site>
+
+### Reviews, listings and launch pages
+
+- Trustpilot: <https://www.trustpilot.com/review/spendwise.download>
+- SaaSHub: <https://www.saashub.com/spendwise>
+- AppAgg: <https://appagg.com/android/finance/spendwise-expense-tracker-44409259.html?hl=en>
+- SourceForge: <https://sourceforge.net/projects/spendwise-expense-tracker/>
+- DevHunt: <https://devhunt.org/tool/spendwise>
+- Peerlist: <https://peerlist.io/kasimrangwala/project/spendwise>
+- SideProjectors: <https://www.sideprojectors.com/project/109344/spendwise>
+
+### Social
+
+- YouTube: <https://www.youtube.com/@getspendwise>
+- LinkedIn: <https://www.linkedin.com/company/spendwise-expense-tracker/>
+- GitHub: <https://github.com/getspendwise>
+
+### Build notes
+
 - DEV Community: <https://dev.to/getspendwise>
-- Build notes: <https://getspendwise.hashnode.dev>
-- Build notes (WordPress.com): <https://getspendwise.wordpress.com>
-- Build notes (Blogger): <https://getspendwise.blogspot.com>
+- Hashnode: <https://getspendwise.hashnode.dev>
+- Medium: <https://medium.com/getspendwise>
+- WordPress.com: <https://getspendwise.wordpress.com>
+- Blogger: <https://getspendwise.blogspot.com>
+
+### Source
+
+- Site source: <https://github.com/getspendwise/spendwise-site>

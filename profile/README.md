@@ -25,7 +25,7 @@ device.
 ### Reviews, listings and launch pages
 
 - Trustpilot: <https://www.trustpilot.com/review/spendwise.download>
-- SaaSHub: <https://www.saashub.com/spendwise>
+- SaaSHub: <https://www.saashub.com/spendwise-download>
 - AppAgg: <https://appagg.com/android/finance/spendwise-expense-tracker-44409259.html?hl=en>
 - SourceForge: <https://sourceforge.net/projects/spendwise-expense-tracker/>
 - DevHunt: <https://devhunt.org/tool/spendwise>

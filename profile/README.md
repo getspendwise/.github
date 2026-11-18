@@ -4,7 +4,7 @@
 spending in seconds and see where the money goes — no account, no signup, and the data stays on the
 device.
 
-[Website](https://spendwise.download/) · [Google Play](https://play.google.com/store/apps/details?id=com.gripxtech.spendwise&hl=en_US&referrer=utm_source%3Dgithub%26utm_medium%3Dsocial%26utm_campaign%3Dorg_profile) · [Privacy](https://spendwise.download/privacy) · [Support](https://spendwise.download/support)
+[Website](https://spendwise.download/) · [Google Play](https://play.google.com/store/apps/details?id=com.gripxtech.spendwise&hl=en_US&referrer=utm_source%3Dgithub%26utm_medium%3Dsocial%26utm_campaign%3Dorg_profile) · [RuStore](https://www.rustore.ru/catalog/app/com.gripxtech.spendwise) · [Privacy](https://spendwise.download/privacy) · [Support](https://spendwise.download/support)
 
 ![Spendwise — offline expense tracker](https://spendwise.download/assets/og-image.png)
 
@@ -20,6 +20,7 @@ device.
 
 - Website: <https://spendwise.download>
 - Google Play: <https://play.google.com/store/apps/details?id=com.gripxtech.spendwise>
+- RuStore (Russia): <https://www.rustore.ru/catalog/app/com.gripxtech.spendwise>
 - Publisher page: <https://play.google.com/store/apps/dev?id=8187940825533075575>
 
 ### Reviews, listings and launch pages
